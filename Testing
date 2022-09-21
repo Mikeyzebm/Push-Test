@@ -11,4 +11,10 @@ some more tests
 slight test
 sakslkf
 a
+<<<<<<< HEAD
+b
+=======
+b
 c
+d
+>>>>>>> designer
